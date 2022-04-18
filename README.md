@@ -5,9 +5,9 @@ I use Gateron Brown switches for Alphanumeric keys and Gateron Yellow for modifi
 I'll try to update this README when changes will happen, but for now my configuration is as follows:
 
 * I use CapsLock as Layer 1 FN key which enables me to have
-    * `HJKL` - for Arrow movement
-    * `DU` - for `PgDown` and `PgUp`
-    * `ON` - for `Home` and `End`
+    * `IJKL` - for Arrow movement
+    * `OU` - for `PgDown` and `PgUp`
+    * `HN` - for `Home` and `End`
     * `P` - for `Ins`
 * I use Split Right Shift so the key right to the shift gives me Layer 2 FN Key
     * `[;'/` - For movement (HHKB Style)
